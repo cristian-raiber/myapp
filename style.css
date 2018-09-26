@@ -2,3 +2,7 @@ body{
     background: red;
     font-size: 12px;
 }
+
+.some-div{
+	font-size: 10px;
+}
