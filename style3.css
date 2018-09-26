@@ -1,5 +1,7 @@
 .someBlock{
 	background: yellow;
-	font-size:22px;
-	color:red; 
+}
+
+.some-block{
+	font-size:12px;
 }
